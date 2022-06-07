@@ -45,7 +45,7 @@ The biggest drawback of this webpage is that the search filters are case sensiti
 ![Pic_4]( https://github.com/smithsh14/UFOs/blob/main/Resources/images/Case_Sensitive_NC.png)
 
 
-Likewise, what if we spell the state out and search for “North Carolina”. The same thing occurs, there is no results returned into the table. This may lead users to assume there were no UFO sightings in North Carolina during that time and that is simply not accurate.
+Likewise, what if we spell the state out and search for “north carolina”. The same thing occurs, there is no results returned into the table. This may lead users to assume there were no UFO sightings in North Carolina during that time and that is simply not accurate.
 
 
 ![Pic_5]( https://github.com/smithsh14/UFOs/blob/main/Resources/images/Case_Sensitive_NorthCarolina.png) 
